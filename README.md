@@ -15,7 +15,7 @@ Step 4:
 For installing packages, run the command: "npm install"
 
 Step 5:
-For running up the server, run the command: "node server" or "nodemon server"
+Once all the packages are installed, run the server by the command: "node server" or "nodemon server"
 
 Once the server is running up and both the databases are connected, you are all set to hit the APIs.
 
