@@ -20,15 +20,26 @@ For running up the server, run the command: "node server" or "nodemon server"
 Once the server is running up and both the databases are connected, you are all set to hit the APIs.
 
 APIs list for Mongo:
+
 /getAll
+
 get/:name
+
 /update
+
 /create
+
 /delete
 
+
 APIs list for MySQL:
+
 /mysql/getAll
+
 /mysql/get/:name
+
 /mysql/update
+
 /mysql/create
+
 /mysql/delete
