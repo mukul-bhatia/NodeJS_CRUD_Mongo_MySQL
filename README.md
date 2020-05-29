@@ -1,5 +1,5 @@
                                                    NodeJS_CRUD_Mongo_MySQL
-Prerequisite :
+Prerequisites :
 1. NodeJS installed on your machine(v10 or above).
 2. MySQL and MongoDB installed on your machine.
 
