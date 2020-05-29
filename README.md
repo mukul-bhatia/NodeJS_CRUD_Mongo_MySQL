@@ -1,9 +1,12 @@
                                                    NodeJS_CRUD_Mongo_MySQL
-                                                   
+Prerequisite :
+1. NodeJS installed on your machine(v10 or above).
+2. MySQL and MongoDB installed on your machine.
+
 Once you have downloaded the project, open the project on your editor and follow the steps:
 
 Step 1:
-Open path: "./server/routes/api.js" and edit (line 6 for Mongo) and (line 18 to 21 for MySQL) database connection. This basically includes the path for your database.
+Open path: "./server/routes/api.js" and edit (line 6 for Mongo) and (line 18 to 21 for MySQL) database connection. This basically includes the connection details and path for your database.
 
 Step 2:
 To change the port open path: "./server.js". Edit line 4 and change the port, else the server serves on port = 3000.
